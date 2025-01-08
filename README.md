@@ -2,13 +2,13 @@
 
 Reference Apple products. Dynamic Notch on the website works as a navigation bar
 
-### Day 1
+## Day 1
 ![Screenshot 2025-01-08 at 10 49 09 AM](https://github.com/user-attachments/assets/e8656b46-6273-491e-83b8-174d3e89b75e)
 
 1. Utilized Framer to create a sample portfolio website. 
 2. Added personal features like **Resume** button
 
-### Day 2
+## Day 2
 https://github.com/user-attachments/assets/b834f26b-e7c2-4c35-bc9d-f5119d8eef61
 1. Added About section for simplicity and better readability
 2. Inserted sliding word feature
