@@ -13,7 +13,12 @@ https://github.com/user-attachments/assets/b834f26b-e7c2-4c35-bc9d-f5119d8eef61
 1. Added About section for simplicity and better readability
 2. Inserted sliding word feature
 
+## Day 3
+https://github.com/user-attachments/assets/1d9d5f72-f843-47e8-87b5-ad53d9673d3c
 
+Got the idea from the existing [framer components](https://framer.university/resources/dynamic-notch-navigation-component).
+
+Created Apple product like website, which has dynamic island features.
 
 
 ### How to create a Dynamic Notch
