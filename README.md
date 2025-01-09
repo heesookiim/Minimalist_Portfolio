@@ -20,6 +20,11 @@ Got the idea from the existing [framer components](https://framer.university/res
 
 Created Apple product like website, which has dynamic island features.
 
+## Day 4
+https://github.com/user-attachments/assets/d15ad99c-ecd3-48c2-aadc-dfc052058f20
+
+1. customized navigation bar
+2. created link scroll feature to sections 
 
 ### How to create a Dynamic Notch
 https://framer.university/resources/dynamic-notch-navigation-component
