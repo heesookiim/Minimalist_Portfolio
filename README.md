@@ -3,10 +3,8 @@
 Reference Apple products. Dynamic Notch on the website works as a navigation bar
 
 ## 01/09/2025
-1. In desktop mode, the hamburger menu isn't clickable.
-    - Hovering the cursor on the hamburger menu will animate menus automatically. 
-3. In tablet or phone mode, the hamburger menu is clickable
-    - There is not cursor, so clicking the menu is needed.
+1. In desktop and tablet mode, hamburger menu is clickable. Hovering a cursor will still animate dynamic notch interaction
+3. In phone mode, the hamburger menu is clickable, but hovering a cursor is unavailable.
 
 ## 01/08/2025
 https://github.com/user-attachments/assets/d15ad99c-ecd3-48c2-aadc-dfc052058f20
