@@ -2,6 +2,12 @@
 
 Reference Apple products. Dynamic Notch on the website works as a navigation bar
 
+## 01/10/2025
+Fixed for better UI/UX:
+- About, Contacts hover animation not resetting properly on mouse out
+- Black line visible at connection points
+- Hamburger icon proportions look misaligned
+
 ## 01/09/2025
 1. In desktop and tablet mode, hamburger menu is clickable. Hovering a cursor will still animate dynamic notch interaction
 3. In phone mode, the hamburger menu is clickable, but hovering a cursor is unavailable.
