@@ -2,6 +2,12 @@
 
 Reference Apple products. Dynamic Notch on the website works as a navigation bar
 
+## 01/14/2025
+Created the notch from scartch for customization. 
+
+https://github.com/user-attachments/assets/c1ed63c7-8f59-4537-8a07-ff8d45a37728
+
+
 ## 01/11/2025
 Created different versions of notch design (Aiming to fix the top menu bar all the time)
 <img width="609" alt="Screenshot 2025-01-11 at 9 42 54 PM" src="https://github.com/user-attachments/assets/27ff18f3-22b0-4e19-af8e-43ba38e0da46" />
