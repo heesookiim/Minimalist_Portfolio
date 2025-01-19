@@ -2,6 +2,9 @@
 
 Reference Apple products. Dynamic Notch on the website works as a navigation bar
 
+## 01/18/2025
+Fixed interaction for the notch
+
 ## 01/14/2025
 Created the notch from scartch for customization. 
 
