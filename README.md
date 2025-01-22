@@ -2,6 +2,9 @@
 
 Reference Apple products. Dynamic Notch on the website works as a navigation bar
 
+## 01/19/2025
+Smoothen the notch transition from Tablet to Phone mode. For some reason, the notch was jumping to the middle of the website for one or two frames when shifting the width of the website. I noticed that this was due to the notch for phone was set to fixed instead of relative. Now, the notch smoothly transforms from desktop-tablet-phone.
+
 ## 01/18/2025
 Fixed interaction for the notch
 
