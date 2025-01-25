@@ -3,13 +3,19 @@
 Reference Apple products. Dynamic Notch on the website works as a navigation bar
 
 ## 01/25/2025
-Interactive side frame is completed. In order to keep the rounded edge as well as the text messages while scrolling, the following steps were required:
-1. The side frame components were converted into a separate variant
-2. Set up z-index order (top notch, side frame, and stacks of text in descending order)
-3. Smoothen the interaction using scroll animation
+1. Interactive side frame is completed. In order to keep the rounded edge as well as the text messages while scrolling, the following steps were required:
+    1. The side frame components were converted into a separate variant
+    2. Set up z-index order (top notch, side frame, and stacks of text in descending order)
+    3. Smoothen the interaction using scroll animation
 
 
 https://github.com/user-attachments/assets/a9597546-f7ad-4c12-8a77-b65962b0910d
+
+2. Updated About section to contain interactive tickets
+
+
+https://github.com/user-attachments/assets/0aaa7a48-45e5-4cfc-8687-2b24ea0a38eb
+
 
 
 ## 01/19/2025
