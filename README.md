@@ -2,6 +2,16 @@
 
 Reference Apple products. Dynamic Notch on the website works as a navigation bar
 
+## 01/25/2025
+Interactive side frame is completed. In order to keep the rounded edge as well as the text messages while scrolling, the following steps were required:
+1. The side frame components were converted into a separate variant
+2. Set up z-index order (top notch, side frame, and stacks of text in descending order)
+3. Smoothen the interaction using scroll animation
+
+
+https://github.com/user-attachments/assets/a9597546-f7ad-4c12-8a77-b65962b0910d
+
+
 ## 01/19/2025
 Smoothen the notch transition from Tablet to Phone mode. For some reason, the notch was jumping to the middle of the website for one or two frames when shifting the width of the website. I noticed that this was due to the notch for phone was set to fixed instead of relative. Now, the notch smoothly transforms from desktop-tablet-phone.
 
