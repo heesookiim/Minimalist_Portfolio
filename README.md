@@ -1,6 +1,6 @@
 # Personal Website
 
-Reference Apple products. Dynamic Notch on the website works as a navigation bar
+A portfolio website inspired by Apple products, featuring a dynamic navigation bar and other cutting edge Frontend techniques
 
 ## 01/25/2025
 1. Interactive side frame is completed. In order to keep the rounded edge as well as the text messages while scrolling, the following steps were required:
