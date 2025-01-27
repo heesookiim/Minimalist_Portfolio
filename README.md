@@ -2,6 +2,9 @@
 
 A portfolio website inspired by Apple products, featuring a dynamic navigation bar and various cutting edge Frontend techniques
 
+[Live Demo](https://spectacular-arrow-048512.framer.app)
+
+# Milestones
 ## 01/25/2025
 1. Interactive side frame is completed. In order to keep the rounded edge as well as the text messages while scrolling, the following steps were required:
     1. The side frame components were converted into a separate variant
