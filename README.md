@@ -4,6 +4,32 @@ A portfolio website inspired by Apple products, featuring a dynamic navigation b
 
 [Live Demo](https://spectacular-arrow-048512.framer.app)
 
+## Key Features
+
+- Dynamic Notch Navigation: A smooth and interactive navigation bar inspired by Apple's Dynamic Island.
+
+- Interactive Side Frame: Maintains a rounded edge and accompanying text while scrolling for a seamless experience.
+
+- Responsive Design: Ensures smooth transitions from desktop to tablet to phone mode.
+
+- Framer-Powered Animations: Leveraging Framer's powerful tools for smooth UI interactions.
+
+- 3D Flip Cards: Engaging hover animations in the About section.
+
+- Custom Scroll Animations: Enhances user engagement with fluid section transitions.
+
+- Optimized UI/UX: Improved animations, hover interactions, and content organization.
+
+## Tech Stack
+
+Framework: Framer
+
+Languages: JavaScript, HTML, CSS
+
+Libraries: Framer Motion
+
+Design Principles: Apple-inspired UI, smooth animations, and responsiveness
+
 # Milestones
 ## 01/25/2025
 1. Interactive side frame is completed. In order to keep the rounded edge as well as the text messages while scrolling, the following steps were required:
